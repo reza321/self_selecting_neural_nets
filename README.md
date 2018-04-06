@@ -6,7 +6,7 @@ Authors:
   * Ryan Kingery
   * Chidubem Arachie
   * Ali Talebzadeh
-  * Ahmadreza Azizi
+  * Ahmadrez Azizi
   * John Krulick
 
 Last Updated: April 2018
